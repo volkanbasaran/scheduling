@@ -2,9 +2,9 @@
 Pretending CPU Scheduling Algorithms FCFS, RR, SRTF, SJF in Java
 
 FCFS = First Come First Served
-RR = Round Robin
-SRTF = Shortest Remaining Time First
-SJF = Shortest Job First
+/RR = Round Robin
+/SRTF = Shortest Remaining Time First
+/SJF = Shortest Job First
 
 To Run this Application choose and run just the class "SchedulingAusfuehren". The prints are in German and all values are pretend milliseconds (ms). After running follow these steps:
 
